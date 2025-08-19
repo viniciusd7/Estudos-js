@@ -1,10 +1,5 @@
 // trabalhando com objetos e metodos
 
-class pessoa {
-    nome
-    idade
-}
-
 const pessoa = {
     nome: 'vinicius dev',
     idade: 21,
@@ -16,3 +11,4 @@ const pessoa = {
 };
 
 pessoa.descrever();
+const atributo = 'descrever';
