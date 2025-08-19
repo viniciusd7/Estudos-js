@@ -1,5 +1,5 @@
 
-class pessoa { //classe uma definição do que deveria ser 
+class pessoa { //classe uma definição do que irá ser  
     nome;
     idade;
     
