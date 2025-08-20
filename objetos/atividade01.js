@@ -24,5 +24,5 @@ class Carro {
 const Gol = new Carro('Volkswagen', 'Preto', 1/12); 
 // 1/12 porque ele faz 12km por litro ou seja, gasta 0.083 litros por km
 
-const gasto = Gol.CalcularGastoPercurso(263, 5.67);
+const gasto = Gol.CalcularGastoPercurso(1260, 5.67);
 console.log(`O gasto da viagem sera de R$ ${gasto.toFixed(2)}`);
