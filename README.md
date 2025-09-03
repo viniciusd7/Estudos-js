@@ -5,8 +5,8 @@ Meu objetivo é praticar todos os dias e compartilhar minha evolução como estu
 
 ## 📂 Estrutura
 - `fundamentos/` → Conceitos básicos: variáveis, funções, arrays, objetos...
-- `desafios/` → Exercícios de lógica e desafios de programação.
-- `projetos/` → Pequenos projetos para aplicar o que aprendi.
+- `aulas/` → Exercícios de lógica e desafios de programação.
+- `atividades/` → Pequenos projetos para aplicar o que aprendi.
 
 ## ✅ Progresso
 - [x] Variáveis e Tipos de Dados  
