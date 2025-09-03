@@ -13,7 +13,7 @@ Meu objetivo é praticar todos os dias e compartilhar minha evolução como estu
 - [x] Operadores  
 - [x] Funções  
 - [X] Objetos  
-- [ ] Arrays  
+- [X] Arrays  
 - [ ] DOM  
 - [ ] Projetos com HTML + CSS + JS  
 
