@@ -14,7 +14,6 @@ Meu objetivo é praticar todos os dias e compartilhar minha evolução como estu
 - [x] Funções  
 - [X] Objetos  
 - [X] Arrays  
-- [ ] DOM  
 - [ ] Projetos com HTML + CSS + JS  
 
 ## 🔗 Conecte-se comigo
